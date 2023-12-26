@@ -29,7 +29,7 @@ async function run(){
         })
 
     }catch(e){
-        console.log("Error occured")
+        console.log("Error occureds")
         console.log(e)
     }finally{
         // client.close()
